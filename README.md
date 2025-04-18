@@ -2,7 +2,7 @@
 
 I am a student majoring in information technology at Da Nang University of Science and Technology.
 
-![Long's Stats](https://github-readme-stats.vercel.app/api?username=Long&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Long's Stats](https://github-readme-stats.vercel.app/api?username=IloveUhiuhiu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -39,11 +39,10 @@ I am a student majoring in information technology at Da Nang University of Scien
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [Facebook](https://twitter.com/introvertedbot)
+- Connect with me on [Instagram](https://twitter.com/introvertedbot)
+- Connect with me on [Linkedin](https://twitter.com/introvertedbot)
+- Connect with me on [Codeforce](https://twitter.com/introvertedbot)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
