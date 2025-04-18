@@ -15,7 +15,9 @@ I am a student majoring in information technology at Da Nang University of Scien
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 ---
 
@@ -23,9 +25,10 @@ I am a student majoring in information technology at Da Nang University of Scien
 [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
 [![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
 [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
-[![Torch](https://skillicons.dev/icons?i=torch)](https://skillicons.dev)
+[![Torch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
-[![Django](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 [![SpringBoot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 [![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 ---
@@ -34,24 +37,13 @@ I am a student majoring in information technology at Da Nang University of Scien
 [![MySQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [Twitter](https://twitter.com/introvertedbot)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
