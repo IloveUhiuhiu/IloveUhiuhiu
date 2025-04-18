@@ -2,7 +2,7 @@
 
 I am a student majoring in information technology at Da Nang University of Science and Technology.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Long's Stats](https://github-readme-stats.vercel.app/api?username=Long&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -13,19 +13,25 @@ I am a student majoring in information technology at Da Nang University of Scien
 
 ### 🔤 Programming Languages
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 
 ---
 
 ### 🧩 Frameworks & Libraries
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![ASP.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
-
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
+[![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
+[![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+[![Torch](https://skillicons.dev/icons?i=torch)](https://skillicons.dev)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![Django](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![SpringBoot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 ---
 
 ### 🗄️ Databases
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
