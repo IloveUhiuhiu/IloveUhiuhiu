@@ -34,7 +34,7 @@ I am a student majoring in information technology at Da Nang University of Scien
 ---
 
 ### 🗄️ Databases
-[![MySQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ## 📬 Get in Touch
