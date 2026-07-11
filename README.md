@@ -4,7 +4,7 @@ I am an Information Technology student at Da Nang University of Science and Tech
 
 ## 🚀 About Me
 
-- 💼 I am currently working as a **Software Engineer** at **LG**. 
+- 💼 I am currently working as a **Software Engineer** at **LG Electronics R&D Vietnam - Da Nang**. 
 - 🤖 Previously, I worked as an **AI Engineer** at **VJ Technologies**.
 
 ## 🧠 Tech Stack
