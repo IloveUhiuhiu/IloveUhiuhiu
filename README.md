@@ -1,6 +1,6 @@
 # Hi, I'm Long (Đặng Phúc Long)! 👋
 
-I am an Information Technology student at Da Nang University of Science and Technology (DUT) and an AI/Software Engineer deeply passionate about Computer Vision, Deep Learning, and System Development.
+I am an Information Technology student at Da Nang University of Science and Technology (DUT).
 
 ![Long's Stats](https://github-readme-stats.vercel.app/api?username=IloveUhiuhiu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
