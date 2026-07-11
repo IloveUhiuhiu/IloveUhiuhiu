@@ -2,8 +2,6 @@
 
 I am an Information Technology student at Da Nang University of Science and Technology (DUT).
 
-![Long's Stats](https://github-readme-stats.vercel.app/api?username=IloveUhiuhiu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 💼 I am currently working as a **Software Engineer** at **LG**. 
