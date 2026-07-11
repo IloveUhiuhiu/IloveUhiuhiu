@@ -8,10 +8,6 @@ I am an Information Technology student at Da Nang University of Science and Tech
 
 - 💼 I am currently working as a **Software Engineer** at **LG**. 
 - 🤖 Previously, I worked as an **AI Engineer** at **VJ Technologies**.
-- 🔭 I am also researching **NutriLens**, a system to estimate food mass and calories from 2D images using depth maps and 3D volume reconstruction.
-- 👑 I am the Chairman of the **Protech Club** (Programming & Technology Club) at DUT, where I organize major events and coding competitions.
-- 🏆 Active participant in competitive programming, particularly **ICPC**, and experienced in algorithmic problem-solving.
-- 🌱 I’m currently specializing in fine-tuning vision models like **YOLOv11, SAM3, Qwen3-VL, and Florence-2**.
 
 ## 🧠 Tech Stack
 
